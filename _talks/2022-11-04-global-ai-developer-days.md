@@ -1,9 +1,9 @@
 ---
-title: "Global AI Days"
+title: "Let's Talk About Sam!"
 collection: talks
 type: "Meetup"
 permalink: /talks/2022-11-04-global-ai-developer-days
-venue: "Avanade Office"
+venue: "Global AI Days"
 date: 2022-11-03
 location: "Singapore"
 ---
