@@ -1,10 +1,10 @@
 ---
 title: "Global AI Days"
 collection: talks
-type: "Talk"
+type: "Meetup"
 permalink: /talks/2022-11-04-global-ai-developer-days
 venue: "Avanade Office"
-date: 2012-11-03
+date: 2022-11-03
 location: "Singapore"
 ---
 
