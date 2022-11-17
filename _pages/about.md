@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about-deact
 title: "Uli's Portfolio"
 excerpt: "About me"
 author_profile: true
